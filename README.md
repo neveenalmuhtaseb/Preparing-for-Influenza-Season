@@ -14,3 +14,6 @@ the project will plan for the upcoming influenza season.
 
 ## Data set
 all the data are from Centers for Disease Control and Prevention CDC website.
+
+## visualization 
+[click here](https://public.tableau.com/views/Preparingforthenextfluseason/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
